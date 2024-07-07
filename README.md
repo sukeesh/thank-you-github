@@ -547,3 +547,4 @@ Signed,
 - Priyank Agarwal ([@priyank1205](https://github.com/priyank1205)), Student, Design, Indian Institute of Technology, Guwahati
 - Lucas Michot ([@lucasmichot](https://github.com/lucasmichot)), Web architect, Core ([Homebrew](https://github.com/homebrew)) contributor
 - Vipul Sharma ([@vsvipul555](https://github.com/vsvipul555)), Programmer, Undergraduate at IIIT Allahabad, India
+- Saurabh Kumar ([@saurabhkr78](https://github.com/saurabhkr78)), Programmer, Department of Computer Science Chandigarh University Chandigarh, India
